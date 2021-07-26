@@ -1,4 +1,4 @@
-# Canvas
+# JS Quiz
 
 ![Screenshot](screenshot.png)
 
