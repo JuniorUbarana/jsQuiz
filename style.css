@@ -119,6 +119,12 @@ h1 {
 
 footer {
     margin-top: 20px;
-    color: #FFF;
+    color: #ffff00;
     font-size: 13px;
+}
+
+footer a {
+    text-decoration: none;
+    color: #ffff00;
+    cursor: pointer;
 }
